@@ -239,10 +239,10 @@ The following is how the Grant Type works in this application :
 * Finaly, you will get resource :
 
         {
-			"success":true,
-			"page":"admin",
-			"user":"admin"
-		}
+                "success":true,
+                "page":"admin",
+                "user":"admin"
+        }
 
 * If access token expired, you can request refresh token :
 
